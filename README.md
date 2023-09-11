@@ -71,8 +71,8 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 <!-- Repositories
+<br/>
 
 ## Favourite Repositories
 [![FightingGame](https://github-readme-stats.vercel.app/api/pin/?username=ltsLumina&repo=FightingGame&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
