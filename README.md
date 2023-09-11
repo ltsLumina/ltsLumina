@@ -34,13 +34,13 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <a href="https://twitter.com/ltsLumina" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://steamcommunity.com/id/ItsLumina/" target="_blank">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Lumina"/>
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
+ <a href="https://instagram.com/korv.stroganof" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
 </p>
