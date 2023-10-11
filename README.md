@@ -9,14 +9,9 @@
 <p align="center">
   <a href="https://github.com/ltsLumina"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
  -->
 
-<!--
-[![wakatime](https://wakatime.com/badge/user/userID.svg)](https://wakatime.com/@userID)
--->
-
-<br/>
+[![wakatime](https://wakatime.com/badge/user/018b0c84-c3a0-4f65-b3b0-741d40b02439.svg)](https://wakatime.com/@018b0c84-c3a0-4f65-b3b0-741d40b02439)
 
 <!-- Intro  -->
 <h3 align="center">
