@@ -13,6 +13,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b0c84-c3a0-4f65-b3b0-741d40b02439.svg)](https://wakatime.com/@018b0c84-c3a0-4f65-b3b0-741d40b02439)
 
+[![a](https://dcbadge.vercel.app/api/shield/USERID)](https://dcbadge.vercel.app/api/shield/287272193946288129)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello, I'm
@@ -24,7 +26,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full time game development student currently studying in <b> Gothenburg. </b> 」
+    「 I am a full-time game development student currently studying in <b> Gothenburg. </b> 」
     <br>
     <br>
   </samp>
