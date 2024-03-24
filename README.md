@@ -11,10 +11,11 @@
 </p>
  -->
 
-[![wakatime](https://wakatime.com/badge/user/018b0c84-c3a0-4f65-b3b0-741d40b02439.svg)](https://wakatime.com/@018b0c84-c3a0-4f65-b3b0-741d40b02439)
-
-[![a](https://dcbadge.vercel.app/api/shield/USERID)](https://dcbadge.vercel.app/api/shield/287272193946288129)
-
+<!-- Aligning the badge to the top left -->
+<div style="position: relative; top: 0; left: 0;">
+  <img src="https://wakatime.com/badge/user/018b0c84-c3a0-4f65-b3b0-741d40b02439.svg" />
+</div>
+  
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello, I'm
@@ -36,12 +37,15 @@
   <a href="https://twitter.com/ltsLumina" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://steamcommunity.com/id/ItsLumina/" target="_blank">
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Lumina"/>
- </a>
  <a href="https://instagram.com/korv.stroganof" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
+  <a href="https://steamcommunity.com/id/ItsLumina/" target="_blank">
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Lumina"/>
+ </a>
+  <a href="https://discordapp.com" target="_blank">
+  <img src="https://dcbadge.vercel.app/api/shield/287272193946288129?compact=true" />
+ </a>
 </p>
 <br />
 
