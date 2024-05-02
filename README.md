@@ -74,9 +74,10 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk+Maya&color=37A5CC&logo=Autodesk+Maya&logoColor=FFFFFF&label=)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,rider,unity,unreal,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,rider,unity,unreal,git,md)](https://skillicons.dev)
 
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
 
