@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Lumina"/>
  </a>
   <a href="https://discordapp.com" target="_blank">
-  <img src="https://dcbadge.vercel.app/api/shield/287272193946288129?compact=true" />
+  <img src="https://dcbadge.limes.pink/api/shield/287272193946288129?compact=true" />
  </a>
 </p>
 <br />
