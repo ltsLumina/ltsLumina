@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello, I'm
-                <b>Lumina!</a></b>
+                <b>Lum!</a></b>
         </samp>
 </h3>
 
