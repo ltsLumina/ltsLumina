@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full-time game development student in <b> Malmö </b> 」
+    「 I am a Game Designer based in <b> Stockholm, Sweden </b> 」
     <br>
     <br>
   </samp>
